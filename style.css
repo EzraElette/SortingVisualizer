@@ -1,0 +1,17 @@
+#chart {
+  list-style-type: none;
+}
+
+#chart div {
+  background-color: aqua;
+  height: 8px;
+}
+
+.highlighted {
+  background-color: blue !important;
+}
+
+.swap-color {
+  background-color: green !important;
+}
+
